@@ -17,6 +17,7 @@ The goal is to explore the dataset, preprocess features, train a regression mode
 
 ## 📂 GitHub Repo Structure
 
+```
 HousePricePrediction/
 │
 ├── README.md
@@ -24,7 +25,7 @@ HousePricePrediction/
 ├── house_price_prediction.py          # Python Script version
 └── dataset/                           # Folder to place your CSV
      └── House Price Prediction Dataset.csv
-
+```
 
 ## 🧪 Models Applied
 - Gradient Boosting Regressor (Scikit-Learn)  
